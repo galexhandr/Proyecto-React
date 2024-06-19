@@ -4,12 +4,9 @@ import Titulo from "../componets/Titulo";
 const Home = () => {
     return (  
         <>
-            <Titulo />
             <Titulo/>
             <Boton />
-            <Boton/>
         </>
-
     );
 }
  
